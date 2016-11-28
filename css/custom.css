@@ -80,3 +80,28 @@ a {
 .product {
 background: #2A363D !important;
 }
+
+.testimonials .item {
+    background: #202325 !important;
+}
+
+.testimonials .item .testimonial .bottom .icon {
+    color: #20FC7A !important;
+    border: 0px;
+}
+
+.owl-carousel .owl-controls .owl-page.active span, .owl-theme .owl-controls .owl-page.active span, .owl-carousel .owl-controls.clickable .owl-page:hover span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: #20FC7A !important;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #ffffff !important;
+    background-color: #20FC7A !important;
+
+}
+
+.btn-template-main {
+    color: #2A363D !important;
+    background-color: #20FC7A !important;
+    border-color: #20FC7A !important;
+}
