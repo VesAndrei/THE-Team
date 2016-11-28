@@ -1,1 +1,82 @@
-/* your styles go here */
+body{
+
+	color: #B7B8AD !important;
+	background: #202325 !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+
+    color: #20FC7A !important;
+}
+
+a {
+
+	color: #20FC7A !important;
+
+}
+.bar.background-white {
+    background: #202325 !important;
+}
+
+.bar.background-pentagon {
+    background: #2A363D !important;
+    border-top: solid 1px #B7B8AD !important;
+    border-bottom: solid 1px #B7B8AD !important;
+}
+
+.box-simple h3 {
+    color: #20FC7A !important;
+}
+
+.box-simple .icon {
+    color: #20FC7A !important;
+    border-color: #20FC7A !important;
+}
+
+.navbar-default {
+    background-color: #20FC7A !important;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #202325 !important;
+}
+
+.heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {
+    border-bottom: solid 5px #20FC7A !important;
+}
+
+#get-it{
+
+	background: #20FC7A !important;
+	color: #202325 !important;
+}
+
+#get-it h3{
+	color: #202325 !important;
+}
+
+.btn-template-transparent-primary {
+    color: #202325 !important;
+    background-color: transparent;
+    border-color: #202325 !important;
+}
+
+#footer{
+	
+	background: #202325 !important;
+	color: #B7B8AD !important;
+}
+
+#heading-breadcrumbs {
+    background: #2A363D !important;
+
+}
+
+.panel.sidebar-menu {
+    background: #2A363D !important;
+}
+
+.product {
+background: #2A363D !important;
+}
