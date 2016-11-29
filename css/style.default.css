@@ -1445,7 +1445,6 @@ fieldset[disabled] .btn-template-primary.active {
   transition: all 0.2s ease-out;
 }
 .box-simple h3 {
-  font-weight: normal;
   font-size: 18px;
   text-transform: uppercase;
   line-height: 1.5;
@@ -1951,7 +1950,6 @@ fieldset[disabled] .btn-template-primary.active {
   padding-bottom: 40px;
 }
 .packages .best-value .package .package-header {
-  height: 72px;
   padding-top: 17px;
   height: 82px !important;
 }
