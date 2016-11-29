@@ -20,7 +20,7 @@ function map() {
 	    style: 'SMALL',
 	    position: 'TOP_LEFT'
 	},
-	panControl: true,
+	panControl: false,
 	streetViewControl: false,
 	mapTypeControl: false,
 	overviewMapControl: false,
@@ -37,7 +37,8 @@ function map() {
 	icon: image,
 	title: 'Turing Society',
 	infoWindow: {
-	content: '<p>HTML Content</p>'
+	content: '<p>Turing Society Rotterdam</p>'
 	}
+	
     });
 }
