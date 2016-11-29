@@ -261,9 +261,13 @@ ul.list-style-none {
 #top .social a:hover {
   color: #fff;
 }
+#top .social a:hover.linkedin {
+  background-color: #0077b5;
+}
 #top .social a:hover.facebook {
   background-color: #4460ae;
 }
+
 #top .social a:hover.gplus {
   background-color: #c21f25;
 }
