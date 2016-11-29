@@ -316,7 +316,7 @@ ul.list-style-none {
   border-top: solid 5px transparent;
 }
 .navbar ul.nav > li > a:hover {
-  border-top: solid 5px #38a7bb;
+  border-top: solid 5px black;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
@@ -1159,7 +1159,7 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #38a7bb;
+  background: rgba(85,85,85,0.6);
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -1991,7 +1991,7 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-homepage .post h2 a:hover,
 #blog-listing-big .post h4 a:hover,
 #blog-homepage .post h4 a:hover {
-  color: #38a7bb;
+  color: #555555;
 }
 #blog-listing-big .post .author-category,
 #blog-homepage .post .author-category {
@@ -3077,7 +3077,8 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #555555;
-  background-color: #80cbd9;
+  background-color: #555555;
+  text-shadow: 2px 2px #20FC7A;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
