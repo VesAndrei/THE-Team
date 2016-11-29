@@ -34,10 +34,10 @@ function map() {
     map.addMarker({
 	lat: 51.91749633,
 	lng: 4.522164578,
-	icon: image/* ,
-	 title: '',
-	 infoWindow: {
-	 content: '<p>HTML Content</p>'
-	 }*/
+	icon: image,
+	title: 'Turing Society',
+	infoWindow: {
+	content: '<p>HTML Content</p>'
+	}
     });
 }
