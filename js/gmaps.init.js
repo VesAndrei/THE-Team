@@ -20,7 +20,7 @@ function map() {
 	    style: 'SMALL',
 	    position: 'TOP_LEFT'
 	},
-	panControl: false,
+	panControl: true,
 	streetViewControl: false,
 	mapTypeControl: false,
 	overviewMapControl: false,
