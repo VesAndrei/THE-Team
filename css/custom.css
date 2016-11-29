@@ -75,6 +75,7 @@ a {
 
 .panel.sidebar-menu {
     background: #2A363D !important;
+    padding: 20px;
 }
 
 .product {
@@ -104,4 +105,15 @@ background: #2A363D !important;
     color: #2A363D !important;
     background-color: #20FC7A !important;
     border-color: #20FC7A !important;
+}
+
+
+.product .image {
+    height: 300px !important;
+}
+
+.box{
+
+	background: #2A363D !important;
+	    padding: 20px !important;
 }
